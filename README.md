@@ -4,11 +4,12 @@
 * 🖥️  See my portfolio at [LeoMoon Studios](http://leomoon.com)
 * 🚀  I'm currently working on [Wiki-Go](http://github.com/leomoon-studios/wiki-go)
 
-### Tech
+## Tech
 
-#### Tools
+### Tools
 
 <p align="left">
+
 <a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/leomoon/profileme-dev/refs/heads/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" style="padding-right:7px;"/></a>&nbsp;
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/leomoon/profileme-dev/refs/heads/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" style="padding-right:7px;"/></a>&nbsp;
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/leomoon/profileme-dev/refs/heads/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" style="padding-right:7px;"/></a>&nbsp;
@@ -22,7 +23,7 @@
 
 </p>
 
-#### Languages
+### Languages
 
 <p align="left">
 
@@ -41,7 +42,7 @@
 
 </p>
 
-#### Cloud
+### Cloud
 
 <p align="left">
 
@@ -51,9 +52,10 @@
 
 </p>
 
-#### Graphics
+### Graphics
 
 <p align="left">
+
 <a href="https://www.blender.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/leomoon/profileme-dev/refs/heads/main/public/icons/skills/blender-colored.svg" width="36" height="36" alt="Blender" style="padding-right:7px;"/></a>&nbsp;
 <a href="https://inkscape.org//" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/leomoon/profileme-dev/refs/heads/main/public/icons/inkscape.svg" width="36" height="36" alt="Blender" style="padding-right:7px;"/></a>&nbsp;
 <a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/leomoon/profileme-dev/refs/heads/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" style="padding-right:7px;"/></a>&nbsp;
@@ -65,6 +67,7 @@
 ### Socials
 
 <p align="left">
+
 <a href="https://www.github.com/leomoon" target="_blank" rel="noreferrer" style="padding-right:7px;"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/leomoon/profileme-dev/refs/heads/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/leomoon/profileme-dev/refs/heads/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/leomoon/profileme-dev/refs/heads/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a>&nbsp;
 <a href="http://www.instagram.com/leomoon84" target="_blank" rel="noreferrer" style="padding-right:7px;"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/leomoon/profileme-dev/refs/heads/main/public/icons/socials/instagram-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/leomoon/profileme-dev/refs/heads/main/public/icons/socials/instagram.svg" /> <img src="https://raw.githubusercontent.com/leomoon/profileme-dev/refs/heads/main/public/icons/socials/instagram.svg" width="32" height="32" /> </picture> </a>&nbsp;
 <a href="https://www.linkedin.com/in/aminbabaeipanah" target="_blank" rel="noreferrer" style="padding-right:7px;"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/leomoon/profileme-dev/refs/heads/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/leomoon/profileme-dev/refs/heads/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/leomoon/profileme-dev/refs/heads/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a>&nbsp;
@@ -74,7 +77,10 @@
 
 </p>
 
-### Badges
+### Stats
 
-<b>My GitHub Stats</b>
+<p align="left">
+
 <a href="http://www.github.com/leomoon"><img src="https://github-readme-stats.vercel.app/api?username=leomoon&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="leomoon's GitHub stats" /></a>&nbsp;
+
+</p>
