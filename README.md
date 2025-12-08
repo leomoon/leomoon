@@ -2,7 +2,7 @@
 
 * 🌍  I'm based in Vancouver BC
 * 🖥️  See my portfolio at [LeoMoon Studios](http://leomoon.com)
-* 🚀  I'm currently working on [Wiki-Go](http://github.com/leomoon-studios/wiki-go)
+* 🚀  I'm currently working on [Wiki-Go](http://github.com/leomoon-studios/wiki-go) and [FitAnyware](https://fitanyware.com)
 
 ## Tech
 
