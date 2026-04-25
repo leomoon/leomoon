@@ -12,7 +12,7 @@
 
 <a href="https://www.linux.org" target="_blank" rel="noreferrer"><picture><img src="https://raw.githubusercontent.com/leomoon/profileme-dev/refs/heads/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></picture></a>&nbsp;&nbsp;&nbsp;
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><picture><img src="https://raw.githubusercontent.com/leomoon/profileme-dev/refs/heads/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></picture></a>&nbsp;&nbsp;&nbsp;
-<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><picture><img src="https://raw.githubusercontent.com/leomoon/profileme-dev/refs/heads/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></picture></a>&nbsp;&nbsp;&nbsp;
+<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><picture><img src="https://raw.githubusercontent.com/leomoon/profileme-dev/refs/heads/main/public/icons/skills/visualstudiocode-colored.svg" width="36" height="36" alt="VS Code" /></picture></a>&nbsp;&nbsp;&nbsp;
 <a href="https://github.com/ansible/ansible" target="_blank" rel="noreferrer"><picture><img src="https://raw.githubusercontent.com/leomoon/profileme-dev/refs/heads/main/public/icons/ansible.svg" width="36" height="36" alt="Ansible" /></picture></a>&nbsp;&nbsp;&nbsp;
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><picture><img src="https://raw.githubusercontent.com/leomoon/profileme-dev/refs/heads/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></picture></a>&nbsp;&nbsp;&nbsp;
 <a href="https://www.packer.io/" target="_blank" rel="noreferrer"><picture><img src="https://raw.githubusercontent.com/leomoon/profileme-dev/refs/heads/main/public/icons/packer.svg" width="36" height="36" alt="Packer" /></picture></a>&nbsp;&nbsp;&nbsp;
@@ -29,7 +29,7 @@
 
 <a href="https://go.dev/doc/" target="_blank" rel="noreferrer"><picture><img src="https://raw.githubusercontent.com/leomoon/profileme-dev/refs/heads/main/public/icons/skills/go-colored.svg" width="36" height="36" alt="Go" /></picture></a>&nbsp;&nbsp;&nbsp;
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><picture><img src="https://raw.githubusercontent.com/leomoon/profileme-dev/refs/heads/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></picture></a>&nbsp;&nbsp;&nbsp;
-<a href="https://flask.palletsprojects.com/en/2.0.x/" target="_blank" rel="noreferrer"><picture><img src="https://raw.githubusercontent.com/leomoon/profileme-dev/refs/heads/main/public/icons/skills/flask-colored.svg" width="36" height="36" alt="Flask" /></picture></a>&nbsp;&nbsp;&nbsp;
+<a href="https://flask.palletsprojects.com/en/2.0.x/" target="_blank" rel="noreferrer"><picture><img src="https://raw.githubusercontent.com/leomoon/profileme-dev/refs/heads/main/public/icons/skills/flask-dark.svg" width="36" height="36" alt="Flask" /></picture></a>&nbsp;&nbsp;&nbsp;
 <a href="https://www.autoitscript.com/site/" target="_blank" rel="noreferrer"><picture><img src="https://raw.githubusercontent.com/leomoon/profileme-dev/refs/heads/main/public/icons/autoit.svg" width="36" height="36" alt="AutoIt" /></picture></a>&nbsp;&nbsp;&nbsp;
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><picture><img src="https://raw.githubusercontent.com/leomoon/profileme-dev/refs/heads/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></picture></a>&nbsp;&nbsp;&nbsp;
 <a href="https://www.php.net/" target="_blank" rel="noreferrer"><picture><img src="https://raw.githubusercontent.com/leomoon/profileme-dev/refs/heads/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></picture></a>&nbsp;&nbsp;&nbsp;
@@ -56,11 +56,12 @@
 ### Graphics
 
 <p align="left">
-
+  
 <a href="https://www.blender.org/" target="_blank" rel="noreferrer"><picture><img src="https://raw.githubusercontent.com/leomoon/profileme-dev/refs/heads/main/public/icons/skills/blender-colored.svg" width="36" height="36" alt="Blender" /></picture></a>&nbsp;&nbsp;&nbsp;
+<a href="https://krita.org/en/" target="_blank" rel="noreferrer"><picture><img src="https://raw.githubusercontent.com/leomoon/profileme-dev/refs/heads/main/public/icons/krita.svg" width="36" height="36" alt="Krita" /></picture></a>&nbsp;&nbsp;&nbsp;
 <a href="https://inkscape.org//" target="_blank" rel="noreferrer"><picture><img src="https://raw.githubusercontent.com/leomoon/profileme-dev/refs/heads/main/public/icons/inkscape.svg" width="36" height="36" alt="Inkscape" /></picture></a>&nbsp;&nbsp;&nbsp;
 <a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><picture><img src="https://raw.githubusercontent.com/leomoon/profileme-dev/refs/heads/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></picture></a>&nbsp;&nbsp;&nbsp;
-<a href="https://www.adobe.com/uk/products/aftereffects.html" target="_blank" rel="noreferrer"><picture><img src="https://raw.githubusercontent.com/leomoon/profileme-dev/refs/heads/main/public/icons/skills/aftereffects-colored.svg" width="36" height="36" alt="After Effects" /></picture></a>&nbsp;&nbsp;&nbsp;
+<a href="https://www.adobe.com/uk/products/aftereffects.html" target="_blank" rel="noreferrer"><picture><img src="https://raw.githubusercontent.com/leomoon/profileme-dev/refs/heads/main/public/icons/skills/aftereffects-dark.svg" width="36" height="36" alt="After Effects" /></picture></a>&nbsp;&nbsp;&nbsp;
 <a href="https://www.autodesk.com/ca-en/products/maya/overview" target="_blank" rel="noreferrer"><picture><img src="https://raw.githubusercontent.com/leomoon/profileme-dev/refs/heads/main/public/icons/maya.svg" width="36" height="36" alt="Maya" /></picture></a>&nbsp;
 
 </p>
