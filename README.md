@@ -27,10 +27,11 @@
 
 <p align="left">
 
+<a href="https://go.dev/doc/" target="_blank" rel="noreferrer"><picture><img src="https://raw.githubusercontent.com/leomoon/profileme-dev/refs/heads/main/public/icons/skills/go-colored.svg" width="36" height="36" alt="Go" /></picture></a>&nbsp;&nbsp;&nbsp;
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><picture><img src="https://raw.githubusercontent.com/leomoon/profileme-dev/refs/heads/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></picture></a>&nbsp;&nbsp;&nbsp;
 <a href="https://flask.palletsprojects.com/en/2.0.x/" target="_blank" rel="noreferrer"><picture><img src="https://raw.githubusercontent.com/leomoon/profileme-dev/refs/heads/main/public/icons/skills/flask-colored.svg" width="36" height="36" alt="Flask" /></picture></a>&nbsp;&nbsp;&nbsp;
+<a href="https://www.autoitscript.com/site/" target="_blank" rel="noreferrer"><picture><img src="https://raw.githubusercontent.com/leomoon/profileme-dev/refs/heads/main/public/icons/autoit.svg" width="36" height="36" alt="AutoIt" /></picture></a>&nbsp;&nbsp;&nbsp;
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><picture><img src="https://raw.githubusercontent.com/leomoon/profileme-dev/refs/heads/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></picture></a>&nbsp;&nbsp;&nbsp;
-<a href="https://go.dev/doc/" target="_blank" rel="noreferrer"><picture><img src="https://raw.githubusercontent.com/leomoon/profileme-dev/refs/heads/main/public/icons/skills/go-colored.svg" width="36" height="36" alt="Go" /></picture></a>&nbsp;&nbsp;&nbsp;
 <a href="https://www.php.net/" target="_blank" rel="noreferrer"><picture><img src="https://raw.githubusercontent.com/leomoon/profileme-dev/refs/heads/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></picture></a>&nbsp;&nbsp;&nbsp;
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><picture><img src="https://raw.githubusercontent.com/leomoon/profileme-dev/refs/heads/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" /></picture></a>&nbsp;&nbsp;&nbsp;
 <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><picture><img src="https://raw.githubusercontent.com/leomoon/profileme-dev/refs/heads/main/public/icons/skills/gnubash.svg" width="36" height="36" alt="GNU Bash" /></picture></a>&nbsp;&nbsp;&nbsp;
@@ -46,7 +47,7 @@
 
 <p align="left">
 
-<a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><picture><img src="https://raw.githubusercontent.com/leomoon/profileme-dev/refs/heads/main/public/icons/skills/aws-colored.svg" width="36" height="36" alt="Amazon Web Services" /></picture></a>&nbsp;&nbsp;&nbsp;
+<a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><picture><img src="https://raw.githubusercontent.com/leomoon/profileme-dev/refs/heads/main/public/icons/skills/aws.svg" width="36" height="36" alt="Amazon Web Services" /></picture></a>&nbsp;&nbsp;&nbsp;
 <a href="https://azure.microsoft.com/en-ca/" target="_blank" rel="noreferrer"><picture><img src="https://raw.githubusercontent.com/leomoon/profileme-dev/refs/heads/main/public/icons/azure.svg" width="36" height="36" alt="Azure" /></picture></a>&nbsp;&nbsp;&nbsp;
 <a href="https://www.digitalocean.com" target="_blank" rel="noreferrer"><picture><img src="https://raw.githubusercontent.com/leomoon/profileme-dev/refs/heads/main/public/icons/skills/digitalocean-colored.svg" width="36" height="36" alt="Digital Ocean" /></picture></a>&nbsp;
 
